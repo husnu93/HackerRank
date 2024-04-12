@@ -12,6 +12,7 @@ public class exp {
         for (int i = 0 ; i<t ;i++  ){
             int a = in.nextInt();
             int b = in.nextInt();
+            //int c = in.nextInt(); silinecek 
             int n = in.nextInt();
 
             for(int j = 0  ; j<n ; j++){
