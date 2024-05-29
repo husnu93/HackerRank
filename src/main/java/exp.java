@@ -14,8 +14,6 @@ public class exp {
             int b = in.nextInt();
            
             int n = in.nextInt();
-
-
             
             for(int j = 0  ; j<n ; j++){
                 a = a + (int)Math.pow(2,j)*b;
